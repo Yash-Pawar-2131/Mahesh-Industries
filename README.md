@@ -1,15 +1,18 @@
 # Mahesh Industries
+
 Home, About, Services, Clients, Enquiry, Contact
 
 - _Header_
 - _Hero_
 - About Mahesh Industries
+- Our Mission
 - Accredition
-- Our Services
+- Services
 - Clients
 - _Footer_
 
-## Vardhaman Precision Works
+## [Vardhaman Precision Works](https://vardhamanprecision.com/index.html)
+
 Home, About, Products, Infrastructure, Gallery, Clients, Enquiry, Contact
 
 - _Header_
@@ -21,7 +24,8 @@ Home, About, Products, Infrastructure, Gallery, Clients, Enquiry, Contact
 - Clients & Partners
 - _Footer_
 
-## Sourabh Heat Treatments
+## [Sourabh Heat Treatments](https://www.sourabhtreatment.com/)
+
 Home, Profile, Clients, Facility, Services, Testing Facility, Contact Us, Enquiry, Sitemap
 
 - _Header_
