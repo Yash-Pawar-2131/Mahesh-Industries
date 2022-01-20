@@ -1,13 +1,13 @@
 # Mahesh Industries
 
-Home, About, Services, Clients, Enquiry, Contact
+Home, About (Accredition), Facility, Services, Clients, Enquiry, Contact
 
-- _Header_
+- _Header_ (CTA)
 - _Hero_
 - About Mahesh Industries
-- Our Mission
-- Accredition
+- Why?
 - Services
+- CTA
 - Clients
 - _Footer_
 
